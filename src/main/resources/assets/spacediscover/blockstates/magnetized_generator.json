@@ -1,0 +1,31 @@
+{
+	"variants": {
+		"facing=down": {
+			"model": "spacediscover:block/magnetized_generator",
+			"x": 180
+		},
+		"facing=east": {
+			"model": "spacediscover:block/magnetized_generator",
+			"x": 90,
+			"y": 90
+		},
+		"facing=north": {
+			"model": "spacediscover:block/magnetized_generator",
+			"x": 90
+		},
+		"facing=south": {
+			"model": "spacediscover:block/magnetized_generator",
+			"x": 90,
+			"y": 180
+		},
+		"facing=up": {
+			"model": "spacediscover:block/magnetized_generator"
+		},
+		"facing=west": {
+			"model": "spacediscover:block/magnetized_generator",
+			"x": 90,
+			"y": 270
+		}
+	}
+}
+

@@ -1,0 +1,27 @@
+{
+  "item.spacediscover.raw_aluminum": "Raw Aluminum",
+  "item.spacediscover.aluminum_ingot": "Aluminum Ingot",
+  "item.spacediscover.raw_nickel": "Raw Nickel",
+  "item.spacediscover.nickel_ingot": "Nickel Ingot",
+
+  "item.spacediscover.storm_firework_rocket": "Storm Firework Rocket",
+  "item.spacediscover.iron_knife": "Iron Knife",
+  "item.spacediscover.copper_wire": "Copper Wire",
+
+  "block.spacediscover.nickel_ore": "Nickel Ore",
+  "block.spacediscover.deepslate_nickel_ore": "Deepslate Nickel Ore",
+  "block.spacediscover.raw_nickel_block": "Block of Raw Nickel",
+  "block.spacediscover.nickel_block": "Block of Nickel",
+  "block.spacediscover.aluminum_ore": "Aluminum Ore",
+  "block.spacediscover.deepslate_aluminum_ore": "Deepslate Aluminum Ore",
+  "block.spacediscover.raw_aluminum_block": "Block of Raw Aluminum",
+  "block.spacediscover.aluminum_block": "Block of Aluminum",
+
+  "block.spacediscover.iron_rod": "Iron Rod",
+  "block.spacediscover.wired_iron_rod": "Wired Iron Rod",
+  "block.spacediscover.magnetized_iron_rod": "Magnetized Iron Rod",
+
+  "block.spacediscover.magnetized_generator": "Magnetized Generator",
+
+  "creativetab.spacediscover_tab": "Space Discover"
+}

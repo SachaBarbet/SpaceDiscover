@@ -1,0 +1,20 @@
+// 1.20.1	2023-09-30T11:54:08.8007631	Tags for minecraft:item mod id spacediscover
+cd7d1d91ba785649cf0c806289fc0fa2d3b2159d data/forge/tags/items/ingots.json
+684e9fbe1805d123f602607c731289927d1c55b0 data/forge/tags/items/ingots/aluminum.json
+39422e71dfada5455c0a9c0d3c85047b58ecc3e8 data/forge/tags/items/ingots/nickel.json
+f5e67a48ebf88678d08581a603b79dd48b3ed369 data/forge/tags/items/ores.json
+ddb598a218147ba5789549075556c0c3524ea860 data/forge/tags/items/ores/aluminum.json
+03a1983a1ff89cf8b7939597a05fa4c6d98c59a1 data/forge/tags/items/ores/nickel.json
+94d9f7d3a94301e4ea386310d9e7a4575941bcd6 data/forge/tags/items/ores_in_ground/deepslate.json
+474a890126bef65713319f0111f3be5a92045af5 data/forge/tags/items/ores_in_ground/stone.json
+f5e67a48ebf88678d08581a603b79dd48b3ed369 data/forge/tags/items/ore_rates/singular.json
+6ee9e242ec617b968b5cfc21c40aad6a474890d4 data/forge/tags/items/raw_materials.json
+7010d0de4d65508150a827bfbcf8338e9b0924bb data/forge/tags/items/raw_materials/aluminum.json
+793b4e95114fc525d0d90dc02091bdb3d1ce1d51 data/forge/tags/items/raw_materials/nickel.json
+f0de9ea9d155df2dc2e20479e257f698010afa31 data/forge/tags/items/storage_blocks.json
+27c5e02b71dddb168062cb192c9b991a9a237a09 data/forge/tags/items/storage_blocks/aluminum.json
+7c95aebec9c4c00c6caa77a5c66846f6e6a3a82f data/forge/tags/items/storage_blocks/nickel.json
+e4d6e70ff7dae9970a96b74693e5348ccb9b753f data/minecraft/tags/items/piglin_loved.json
+852659e5f34c31ff9ba9c8acacbd7aa484a8150c data/minecraft/tags/items/swords.json
+a67e7a4d56c1fb6949a47eaada8e13691e78d1e3 data/spacediscover/tags/items/aluminum_ores.json
+a86ec32087cfe7a89c79802dd3560d4978d8eaa1 data/spacediscover/tags/items/nickel_ores.json

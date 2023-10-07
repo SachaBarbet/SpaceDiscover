@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "spacediscover:aluminum_ingot"
+    },
+    "M": {
+      "item": "spacediscover:magnetized_iron_rod"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "W": {
+      "item": "spacediscover:copper_wire"
+    }
+  },
+  "pattern": [
+    "ARA",
+    "MWM",
+    "ARA"
+  ],
+  "result": {
+    "item": "spacediscover:magnetized_generator"
+  },
+  "show_notification": true
+}

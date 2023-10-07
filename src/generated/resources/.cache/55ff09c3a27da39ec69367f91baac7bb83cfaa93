@@ -1,0 +1,15 @@
+// 1.20.1	2023-09-30T19:12:08.4188023	Tags for minecraft:block mod id spacediscover
+f5e67a48ebf88678d08581a603b79dd48b3ed369 data/forge/tags/blocks/ores.json
+ddb598a218147ba5789549075556c0c3524ea860 data/forge/tags/blocks/ores/aluminum.json
+03a1983a1ff89cf8b7939597a05fa4c6d98c59a1 data/forge/tags/blocks/ores/nickel.json
+94d9f7d3a94301e4ea386310d9e7a4575941bcd6 data/forge/tags/blocks/ores_in_ground/deepslate.json
+474a890126bef65713319f0111f3be5a92045af5 data/forge/tags/blocks/ores_in_ground/stone.json
+f5e67a48ebf88678d08581a603b79dd48b3ed369 data/forge/tags/blocks/ore_rates/singular.json
+f0de9ea9d155df2dc2e20479e257f698010afa31 data/forge/tags/blocks/storage_blocks.json
+27c5e02b71dddb168062cb192c9b991a9a237a09 data/forge/tags/blocks/storage_blocks/aluminum.json
+7c95aebec9c4c00c6caa77a5c66846f6e6a3a82f data/forge/tags/blocks/storage_blocks/nickel.json
+ecab839a619810679898924a224ebdf612eac319 data/minecraft/tags/blocks/mineable/pickaxe.json
+ba739aba1a31270edce6e14eb238ccc8185e08f7 data/minecraft/tags/blocks/needs_iron_tool.json
+06dd8465be2a4669de8d5512d5acd111dc3e3481 data/minecraft/tags/blocks/needs_stone_tool.json
+a67e7a4d56c1fb6949a47eaada8e13691e78d1e3 data/spacediscover/tags/blocks/aluminum_ores.json
+a86ec32087cfe7a89c79802dd3560d4978d8eaa1 data/spacediscover/tags/blocks/nickel_ores.json
